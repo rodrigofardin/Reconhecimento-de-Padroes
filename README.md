@@ -1,1 +1,1 @@
-# Reconhecimento-de-Padroes
+# Reconhecimento de Padrões
